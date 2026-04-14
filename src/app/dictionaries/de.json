@@ -1,0 +1,184 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "privacy": "Datenschutz",
+    "support": "Support",
+    "imprint": "Impressum"
+  },
+  "hero": {
+    "tagline": "Sprich in deiner Sprache, tippe in deren.",
+    "subtitle": "Talkila ist die iOS-Tastatur, die deine Stimme in übersetzten Text verwandelt — direkt in jeder App.",
+    "cta": "Im App Store laden"
+  },
+  "features": {
+    "title": "Alles, was du zum Kommunizieren brauchst",
+    "items": [
+      {
+        "icon": "🎙️",
+        "title": "Voice-to-Translation",
+        "description": "Sprich natürlich und Talkila übersetzt deine Worte in Echtzeit in jede Sprache."
+      },
+      {
+        "icon": "⌨️",
+        "title": "Überall einsetzbar",
+        "description": "Nutze Talkila als Tastatur in WhatsApp, iMessage, E-Mail oder jeder anderen App."
+      },
+      {
+        "icon": "⚙️",
+        "title": "Smarte Optionen",
+        "description": "Wähle Ton, Formalität und Länge — Talkila passt deine Nachricht dem Kontext an."
+      },
+      {
+        "icon": "🌍",
+        "title": "97 Sprachen",
+        "description": "Von Arabisch bis Zulu — Talkila unterstützt 97 Sprachen und es werden mehr."
+      },
+      {
+        "icon": "🔒",
+        "title": "Datenschutz zuerst",
+        "description": "Deine Stimme wird verarbeitet, nie gespeichert. Kein Tracking, keine Werbung, keine Datensammlung."
+      },
+      {
+        "icon": "📋",
+        "title": "Übersetzungsverlauf",
+        "description": "Nutze vergangene Übersetzungen schnell wieder. Dein Verlauf bleibt auf deinem Gerät."
+      }
+    ]
+  },
+  "howItWorks": {
+    "title": "So funktioniert's",
+    "steps": [
+      {
+        "step": "1",
+        "title": "Tastatur wechseln",
+        "description": "Tippe auf das Globus-Symbol, um zur Talkila-Tastatur zu wechseln."
+      },
+      {
+        "step": "2",
+        "title": "Sprechen",
+        "description": "Tippe auf das Mikrofon und sprich in deiner Sprache."
+      },
+      {
+        "step": "3",
+        "title": "Senden",
+        "description": "Dein übersetzter Text erscheint sofort — einfach absenden."
+      }
+    ]
+  },
+  "download": {
+    "title": "Jetzt übersetzen.",
+    "subtitle": "Lade Talkila kostenlos herunter und überwinde die Sprachbarriere.",
+    "cta": "Im App Store laden"
+  },
+  "privacy": {
+    "title": "Datenschutzerklärung",
+    "lastUpdated": "Zuletzt aktualisiert: 14. April 2026",
+    "sections": [
+      {
+        "title": "1. Verantwortlicher",
+        "content": "Verantwortlicher im Sinne der Datenschutz-Grundverordnung (DSGVO) ist:\n\nJurica Romic\nWiesenweg 3\n50259 Pulheim\nDeutschland\n\nE-Mail: support@talkila.com"
+      },
+      {
+        "title": "2. Übersicht der Datenverarbeitung",
+        "content": "Talkila ist eine iOS-Tastatur-App, die Spracheingaben in Echtzeit in übersetzte Texte umwandelt. Im Folgenden informieren wir Sie darüber, welche personenbezogenen Daten wir erheben, zu welchem Zweck und auf welcher Rechtsgrundlage dies geschieht."
+      },
+      {
+        "title": "3. Hosting der Webseite",
+        "content": "Diese Webseite wird bei Vercel Inc. (440 N Barranca Avenue #4133, Covina, CA 91723, USA) gehostet. Beim Besuch der Webseite werden automatisch technische Informationen durch den Webserver erfasst (sog. Server-Logfiles):\n\n• IP-Adresse des anfragenden Rechners\n• Datum und Uhrzeit des Zugriffs\n• Name und URL der abgerufenen Seite\n• Browsertyp und -version\n• Verwendetes Betriebssystem\n• Referrer-URL\n\nDiese Daten sind technisch erforderlich, um die Webseite anzuzeigen, und werden nach spätestens 30 Tagen gelöscht. Rechtsgrundlage ist Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an der sicheren und effizienten Bereitstellung der Webseite).\n\nVercel ist unter dem EU-US Data Privacy Framework zertifiziert. Weitere Informationen: https://vercel.com/legal/privacy-policy"
+      },
+      {
+        "title": "4. Datenverarbeitung in der App",
+        "content": "Bei der Nutzung der Talkila-App werden folgende Daten verarbeitet:\n\na) Benutzerkonto\nZur Erstellung und Verwaltung Ihres Kontos verarbeiten wir:\n• E-Mail-Adresse (bei Registrierung)\n• Authentifizierungsdaten\nRechtsgrundlage: Art. 6 Abs. 1 lit. b DSGVO (Vertragserfüllung)\n\nb) Sprachdaten\nBei Nutzung der Spracherkennung werden Ihre Audioaufnahmen in Echtzeit an unsere Server übertragen und dort verarbeitet. Die Audiodaten werden ausschließlich zur Umwandlung in Text genutzt und unmittelbar nach der Verarbeitung gelöscht — es findet keine Speicherung der Audioaufnahmen statt.\nRechtsgrundlage: Art. 6 Abs. 1 lit. a DSGVO (Einwilligung durch Aktivierung des Mikrofons) und Art. 6 Abs. 1 lit. b DSGVO (Vertragserfüllung)\n\nc) Übersetzungsdaten\nDer erkannte Text wird zur Übersetzung an unsere Übersetzungsdienste übermittelt. Übersetzte Texte werden nur für die Dauer der Anfrage zwischengespeichert und anschließend gelöscht.\nRechtsgrundlage: Art. 6 Abs. 1 lit. b DSGVO (Vertragserfüllung)\n\nd) Übersetzungsverlauf\nDer Verlauf Ihrer Übersetzungen wird ausschließlich lokal auf Ihrem Gerät gespeichert. Wir haben keinen Zugriff auf diese Daten."
+      },
+      {
+        "title": "5. Drittanbieter und Auftragsverarbeiter",
+        "content": "Zur Bereitstellung unserer Dienste setzen wir folgende Drittanbieter ein:\n\n• Supabase Inc. (Datenbank & Authentifizierung) — Datenverarbeitung auf EU-Servern. Supabase fungiert als Auftragsverarbeiter gemäß Art. 28 DSGVO.\n\n• OpenAI, L.L.C. (Spracherkennung via Whisper, Übersetzung via GPT) — Audiodaten und Texte werden zur Verarbeitung an OpenAI übermittelt. OpenAI verwendet im API-Modus keine Kundendaten zum Trainieren seiner Modelle. Rechtsgrundlage für die Übermittlung: Art. 6 Abs. 1 lit. b DSGVO. Es bestehen Standardvertragsklauseln gemäß Art. 46 Abs. 2 lit. c DSGVO.\n\n• Microsoft Corporation (Text-to-Speech via Azure) — Textdaten werden zur Sprachsynthese übermittelt. Microsoft ist unter dem EU-US Data Privacy Framework zertifiziert.\n\n• Apple Inc. (App Store, In-App-Käufe) — Zahlungsabwicklung über den App Store. Apple agiert hierbei als eigenständiger Verantwortlicher.\n\nMit allen Auftragsverarbeitern haben wir entsprechende Vereinbarungen geschlossen. Alle Datenübertragungen sind per TLS/HTTPS verschlüsselt."
+      },
+      {
+        "title": "6. Datenübermittlung in Drittländer",
+        "content": "Einige unserer Dienstleister haben ihren Sitz in den USA. Die Übermittlung personenbezogener Daten in die USA erfolgt auf Grundlage von:\n\n• dem EU-US Data Privacy Framework (Angemessenheitsbeschluss der EU-Kommission gemäß Art. 45 DSGVO), soweit der Empfänger zertifiziert ist, oder\n• Standardvertragsklauseln gemäß Art. 46 Abs. 2 lit. c DSGVO.\n\nWir stellen sicher, dass ein angemessenes Datenschutzniveau gewährleistet ist."
+      },
+      {
+        "title": "7. Datensicherheit",
+        "content": "Wir treffen angemessene technische und organisatorische Maßnahmen zum Schutz Ihrer Daten:\n\n• Verschlüsselung aller Datenübertragungen per TLS/HTTPS\n• Certificate Pinning in der App\n• Keine persistente Speicherung von Audio- oder Übersetzungsdaten auf unseren Servern\n• Regelmäßige Sicherheitsüberprüfungen\n• Zugriffsbeschränkungen nach dem Prinzip der minimalen Berechtigung"
+      },
+      {
+        "title": "8. Speicherdauer",
+        "content": "Wir speichern personenbezogene Daten nur so lange, wie es für die jeweiligen Zwecke erforderlich ist:\n\n• Audiodaten: Werden in Echtzeit verarbeitet und unmittelbar gelöscht (keine Speicherung)\n• Übersetzungstexte: Nur für die Dauer der Anfrage, dann sofortige Löschung\n• Kontodaten: Für die Dauer Ihrer Nutzung; nach Kontolöschung werden alle Daten innerhalb von 30 Tagen gelöscht\n• Server-Logfiles: Maximal 30 Tage\n• Abrechnungsdaten: Gemäß gesetzlicher Aufbewahrungsfristen (bis zu 10 Jahre nach § 147 AO)"
+      },
+      {
+        "title": "9. Cookies und Tracking",
+        "content": "Diese Webseite verwendet keine Cookies, keine Tracking-Technologien, keine Analysetools und keine Werbe-SDKs. Wir erheben keine Daten zu Werbe- oder Marketingzwecken.\n\nDie Talkila-App verwendet ebenfalls kein Tracking, keine Analysetools und keine Werbung."
+      },
+      {
+        "title": "10. Ihre Rechte als betroffene Person",
+        "content": "Nach der DSGVO stehen Ihnen folgende Rechte zu:\n\n• Auskunftsrecht (Art. 15 DSGVO): Sie können Auskunft über Ihre bei uns gespeicherten personenbezogenen Daten verlangen.\n\n• Recht auf Berichtigung (Art. 16 DSGVO): Sie können die Berichtigung unrichtiger Daten verlangen.\n\n• Recht auf Löschung (Art. 17 DSGVO): Sie können die Löschung Ihrer Daten verlangen, sofern keine gesetzlichen Aufbewahrungspflichten entgegenstehen.\n\n• Recht auf Einschränkung der Verarbeitung (Art. 18 DSGVO): Sie können die Einschränkung der Verarbeitung Ihrer Daten verlangen.\n\n• Recht auf Datenübertragbarkeit (Art. 20 DSGVO): Sie können verlangen, dass wir Ihnen Ihre Daten in einem strukturierten, gängigen Format übermitteln.\n\n• Widerspruchsrecht (Art. 21 DSGVO): Sie können der Verarbeitung Ihrer Daten widersprechen, sofern die Verarbeitung auf berechtigtem Interesse basiert.\n\n• Recht auf Widerruf der Einwilligung (Art. 7 Abs. 3 DSGVO): Eine erteilte Einwilligung können Sie jederzeit mit Wirkung für die Zukunft widerrufen.\n\nZur Ausübung Ihrer Rechte kontaktieren Sie uns bitte unter support@talkila.com."
+      },
+      {
+        "title": "11. Beschwerderecht bei einer Aufsichtsbehörde",
+        "content": "Wenn Sie der Ansicht sind, dass die Verarbeitung Ihrer Daten gegen die DSGVO verstößt, haben Sie das Recht, sich bei einer Datenschutz-Aufsichtsbehörde zu beschweren (Art. 77 DSGVO).\n\nZuständige Aufsichtsbehörde:\nLandesbeauftragte für Datenschutz und Informationsfreiheit Nordrhein-Westfalen\nPostfach 20 04 44\n40102 Düsseldorf\nhttps://www.ldi.nrw.de"
+      },
+      {
+        "title": "12. Änderungen dieser Datenschutzerklärung",
+        "content": "Wir behalten uns vor, diese Datenschutzerklärung anzupassen, um sie an geänderte Rechtslagen oder bei Änderungen unserer Dienste anzupassen. Die jeweils aktuelle Fassung finden Sie auf dieser Seite."
+      },
+      {
+        "title": "13. Kontakt",
+        "content": "Bei Fragen zum Datenschutz erreichen Sie uns unter:\n\nJurica Romic\nWiesenweg 3\n50259 Pulheim\nDeutschland\n\nE-Mail: support@talkila.com"
+      }
+    ]
+  },
+  "support": {
+    "title": "Support",
+    "subtitle": "Wir helfen dir gerne. Schau in die FAQ oder kontaktiere uns direkt.",
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "items": [
+        {
+          "question": "Wie aktiviere ich die Talkila-Tastatur?",
+          "answer": "Gehe zu Einstellungen → Allgemein → Tastatur → Tastaturen → Neue Tastatur hinzufügen → Talkila. Aktiviere dann \"Vollen Zugriff erlauben\", damit die Tastatur deine Stimme verarbeiten kann."
+        },
+        {
+          "question": "Warum braucht Talkila vollen Zugriff?",
+          "answer": "Voller Zugriff ist nötig, damit die Tastatur deine Sprachdaten an unsere Übersetzungsserver senden kann. Ohne diesen Zugriff kann die Tastatur nicht auf das Netzwerk zugreifen. Wir speichern keine Sprachdaten und tracken keine Tastatureingaben."
+        },
+        {
+          "question": "Welche Sprachen werden unterstützt?",
+          "answer": "Talkila unterstützt 97 Sprachen für Übersetzungen. Die Spracheingabe unterstützt derzeit alle gängigen Sprachen. Die vollständige Liste findest du in der App."
+        },
+        {
+          "question": "Werden meine Sprachdaten gespeichert?",
+          "answer": "Nein. Deine Stimme wird in Echtzeit verarbeitet und sofort verworfen. Wir speichern niemals Audioaufnahmen auf unseren Servern."
+        },
+        {
+          "question": "Die Tastatur erscheint nicht. Was soll ich tun?",
+          "answer": "Stelle sicher, dass du Talkila unter Einstellungen → Allgemein → Tastatur → Tastaturen hinzugefügt hast. Wenn sie immer noch nicht erscheint, starte dein Gerät neu."
+        },
+        {
+          "question": "Ist Talkila kostenlos?",
+          "answer": "Talkila bietet ein kostenloses Kontingent mit begrenzten Übersetzungen pro Tag. Für unbegrenzte Übersetzungen kannst du auf Talkila Pro upgraden."
+        }
+      ]
+    },
+    "contact": {
+      "title": "Noch Fragen?",
+      "text": "Schreib uns eine E-Mail und wir melden uns so schnell wie möglich.",
+      "email": "support@talkila.com"
+    }
+  },
+  "imprint": {
+    "title": "Impressum",
+    "content": "Angaben gemäß § 5 TMG\n\nJurica Romic\nWiesenweg 3\n50259 Pulheim\nDeutschland\n\nKontakt:\nE-Mail: support@talkila.com\n\nVerantwortlich für den Inhalt nach § 55 Abs. 2 RStV:\nJurica Romic\nWiesenweg 3\n50259 Pulheim\nDeutschland"
+  },
+  "footer": {
+    "privacy": "Datenschutz",
+    "support": "Support",
+    "imprint": "Impressum",
+    "copyright": "© {year} Talkila. Alle Rechte vorbehalten."
+  },
+  "notFound": {
+    "title": "Seite nicht gefunden",
+    "description": "Die Seite, die du suchst, existiert nicht.",
+    "cta": "Zurück zur Startseite"
+  }
+}

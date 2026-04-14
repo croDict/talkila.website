@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
+import { Geist } from "next/font/google";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -7,28 +7,33 @@ const geistSans = Geist({
   subsets: ["latin"],
 });
 
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
-  subsets: ["latin"],
-});
-
 export const metadata: Metadata = {
-  title: "Talkila — Voice Keyboard & Translator",
+  title: {
+    default: "Talkila — Voice Keyboard & Translator",
+    template: "%s | Talkila",
+  },
   description:
     "Speak in your language, type in theirs. Talkila turns your voice into translated text — right from your keyboard, in any app.",
+  metadataBase: new URL("https://talkila.com"),
+  openGraph: {
+    type: "website",
+    siteName: "Talkila",
+    title: "Talkila — Voice Keyboard & Translator",
+    description:
+      "Speak in your language, type in theirs. The iOS keyboard that translates your voice in real time.",
+  },
 };
 
 export default function RootLayout({
   children,
-}: Readonly<{
+}: {
   children: React.ReactNode;
-}>) {
+}) {
   return (
-    <html
-      lang="en"
-      className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
-    >
-      <body className="min-h-full flex flex-col">{children}</body>
+    <html className={`${geistSans.variable} antialiased`}>
+      <body className="min-h-screen flex flex-col font-sans bg-white text-foreground">
+        {children}
+      </body>
     </html>
   );
 }

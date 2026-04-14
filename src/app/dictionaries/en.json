@@ -1,0 +1,184 @@
+{
+  "nav": {
+    "home": "Home",
+    "privacy": "Privacy",
+    "support": "Support",
+    "imprint": "Imprint"
+  },
+  "hero": {
+    "tagline": "Speak in your language, type in theirs.",
+    "subtitle": "Talkila is the iOS keyboard that turns your voice into translated text — right from any app.",
+    "cta": "Download on the App Store"
+  },
+  "features": {
+    "title": "Everything you need to communicate",
+    "items": [
+      {
+        "icon": "🎙️",
+        "title": "Voice-to-Translation",
+        "description": "Speak naturally and Talkila translates your words into any language in real time."
+      },
+      {
+        "icon": "⌨️",
+        "title": "Works Everywhere",
+        "description": "Use Talkila as a keyboard in WhatsApp, iMessage, Email, or any other app."
+      },
+      {
+        "icon": "⚙️",
+        "title": "Smart Options",
+        "description": "Choose tone, formality, and length — Talkila adapts your message to the context."
+      },
+      {
+        "icon": "🌍",
+        "title": "97 Languages",
+        "description": "From Arabic to Zulu — Talkila supports 97 languages and growing."
+      },
+      {
+        "icon": "🔒",
+        "title": "Privacy First",
+        "description": "Your voice is processed, never stored. No tracking, no ads, no data collection."
+      },
+      {
+        "icon": "📋",
+        "title": "Translation History",
+        "description": "Quickly reuse past translations. Your history stays on your device."
+      }
+    ]
+  },
+  "howItWorks": {
+    "title": "How it works",
+    "steps": [
+      {
+        "step": "1",
+        "title": "Switch keyboard",
+        "description": "Tap the globe icon to switch to the Talkila keyboard."
+      },
+      {
+        "step": "2",
+        "title": "Speak",
+        "description": "Tap the microphone and speak in your language."
+      },
+      {
+        "step": "3",
+        "title": "Send",
+        "description": "Your translated text appears instantly — just hit send."
+      }
+    ]
+  },
+  "download": {
+    "title": "Start translating now.",
+    "subtitle": "Download Talkila for free and break the language barrier.",
+    "cta": "Download on the App Store"
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: April 14, 2026",
+    "sections": [
+      {
+        "title": "1. Data Controller",
+        "content": "The data controller within the meaning of the General Data Protection Regulation (GDPR) is:\n\nJurica Romic\nWiesenweg 3\n50259 Pulheim\nGermany\n\nEmail: support@talkila.com"
+      },
+      {
+        "title": "2. Overview of Data Processing",
+        "content": "Talkila is an iOS keyboard app that converts voice input into translated text in real time. Below we inform you about what personal data we collect, for what purpose, and on what legal basis."
+      },
+      {
+        "title": "3. Website Hosting",
+        "content": "This website is hosted by Vercel Inc. (440 N Barranca Avenue #4133, Covina, CA 91723, USA). When you visit the website, technical information is automatically collected by the web server (server log files):\n\n• IP address of the requesting device\n• Date and time of access\n• Name and URL of the requested page\n• Browser type and version\n• Operating system used\n• Referrer URL\n\nThis data is technically necessary to display the website and is deleted after a maximum of 30 days. Legal basis: Art. 6(1)(f) GDPR (legitimate interest in the secure and efficient provision of the website).\n\nVercel is certified under the EU-US Data Privacy Framework. More information: https://vercel.com/legal/privacy-policy"
+      },
+      {
+        "title": "4. Data Processing in the App",
+        "content": "When using the Talkila app, the following data is processed:\n\na) User Account\nTo create and manage your account, we process:\n• Email address (upon registration)\n• Authentication data\nLegal basis: Art. 6(1)(b) GDPR (performance of a contract)\n\nb) Voice Data\nWhen using speech recognition, your audio recordings are transmitted to our servers in real time for processing. Audio data is used exclusively for converting speech to text and is immediately deleted after processing — no audio recordings are stored.\nLegal basis: Art. 6(1)(a) GDPR (consent through microphone activation) and Art. 6(1)(b) GDPR (performance of a contract)\n\nc) Translation Data\nThe recognized text is transmitted to our translation services. Translated texts are only temporarily stored for the duration of the request and are then deleted.\nLegal basis: Art. 6(1)(b) GDPR (performance of a contract)\n\nd) Translation History\nYour translation history is stored exclusively on your device. We do not have access to this data."
+      },
+      {
+        "title": "5. Third-Party Services and Data Processors",
+        "content": "We use the following third-party services to provide our services:\n\n• Supabase Inc. (Database & Authentication) — Data processing on EU servers. Supabase acts as a data processor pursuant to Art. 28 GDPR.\n\n• OpenAI, L.L.C. (Speech recognition via Whisper, translation via GPT) — Audio data and text are transmitted to OpenAI for processing. OpenAI does not use customer data submitted via the API to train its models. Legal basis for the transfer: Art. 6(1)(b) GDPR. Standard contractual clauses pursuant to Art. 46(2)(c) GDPR are in place.\n\n• Microsoft Corporation (Text-to-Speech via Azure) — Text data is transmitted for speech synthesis. Microsoft is certified under the EU-US Data Privacy Framework.\n\n• Apple Inc. (App Store, In-App Purchases) — Payment processing through the App Store. Apple acts as an independent data controller.\n\nWe have entered into appropriate data processing agreements with all processors. All data transmissions are encrypted via TLS/HTTPS."
+      },
+      {
+        "title": "6. Data Transfers to Third Countries",
+        "content": "Some of our service providers are based in the USA. The transfer of personal data to the USA is carried out on the basis of:\n\n• the EU-US Data Privacy Framework (adequacy decision of the European Commission pursuant to Art. 45 GDPR), where the recipient is certified, or\n• Standard contractual clauses pursuant to Art. 46(2)(c) GDPR.\n\nWe ensure that an adequate level of data protection is maintained."
+      },
+      {
+        "title": "7. Data Security",
+        "content": "We implement appropriate technical and organizational measures to protect your data:\n\n• Encryption of all data transmissions via TLS/HTTPS\n• Certificate pinning in the app\n• No persistent storage of audio or translation data on our servers\n• Regular security reviews\n• Access restrictions based on the principle of least privilege"
+      },
+      {
+        "title": "8. Data Retention",
+        "content": "We retain personal data only for as long as necessary for the respective purposes:\n\n• Audio data: Processed in real time and immediately deleted (no storage)\n• Translation texts: Only for the duration of the request, then immediate deletion\n• Account data: For the duration of your use; after account deletion, all data is removed within 30 days\n• Server log files: Maximum 30 days\n• Billing data: In accordance with statutory retention periods (up to 10 years under § 147 AO)"
+      },
+      {
+        "title": "9. Cookies and Tracking",
+        "content": "This website does not use cookies, tracking technologies, analytics tools, or advertising SDKs. We do not collect any data for advertising or marketing purposes.\n\nThe Talkila app also does not use tracking, analytics tools, or advertising."
+      },
+      {
+        "title": "10. Your Rights as a Data Subject",
+        "content": "Under the GDPR, you have the following rights:\n\n• Right of access (Art. 15 GDPR): You can request information about your personal data stored by us.\n\n• Right to rectification (Art. 16 GDPR): You can request the correction of inaccurate data.\n\n• Right to erasure (Art. 17 GDPR): You can request the deletion of your data, provided no statutory retention obligations exist.\n\n• Right to restriction of processing (Art. 18 GDPR): You can request restriction of the processing of your data.\n\n• Right to data portability (Art. 20 GDPR): You can request that we provide your data in a structured, commonly used format.\n\n• Right to object (Art. 21 GDPR): You can object to the processing of your data where processing is based on legitimate interest.\n\n• Right to withdraw consent (Art. 7(3) GDPR): You can withdraw any consent given at any time with effect for the future.\n\nTo exercise your rights, please contact us at support@talkila.com."
+      },
+      {
+        "title": "11. Right to Lodge a Complaint",
+        "content": "If you believe that the processing of your data violates the GDPR, you have the right to lodge a complaint with a data protection supervisory authority (Art. 77 GDPR).\n\nCompetent supervisory authority:\nLandesbeauftragte für Datenschutz und Informationsfreiheit Nordrhein-Westfalen\nPostfach 20 04 44\n40102 Düsseldorf\nhttps://www.ldi.nrw.de"
+      },
+      {
+        "title": "12. Changes to This Privacy Policy",
+        "content": "We reserve the right to update this privacy policy to reflect changes in legal requirements or modifications to our services. The current version is always available on this page."
+      },
+      {
+        "title": "13. Contact",
+        "content": "For questions regarding data protection, you can reach us at:\n\nJurica Romic\nWiesenweg 3\n50259 Pulheim\nGermany\n\nEmail: support@talkila.com"
+      }
+    ]
+  },
+  "support": {
+    "title": "Support",
+    "subtitle": "We're here to help. Check our FAQ or reach out directly.",
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "question": "How do I enable the Talkila keyboard?",
+          "answer": "Go to Settings → General → Keyboard → Keyboards → Add New Keyboard → Talkila. Then enable \"Allow Full Access\" so the keyboard can process your voice."
+        },
+        {
+          "question": "Why does Talkila need Full Access?",
+          "answer": "Full Access is required so the keyboard can send your voice data to our translation servers. Without it, the keyboard cannot access the network. We do not store your voice data or track any keystrokes."
+        },
+        {
+          "question": "Which languages are supported?",
+          "answer": "Talkila supports 97 languages for translation. The voice input currently supports all major languages. Check the app for the full list of available languages."
+        },
+        {
+          "question": "Is my voice data stored?",
+          "answer": "No. Your voice is processed in real time and immediately discarded. We never store audio recordings on our servers."
+        },
+        {
+          "question": "The keyboard doesn't appear. What should I do?",
+          "answer": "Make sure you've added Talkila in Settings → General → Keyboard → Keyboards. If it still doesn't appear, try restarting your device."
+        },
+        {
+          "question": "Is Talkila free?",
+          "answer": "Talkila offers a free tier with limited translations per day. For unlimited translations, you can upgrade to Talkila Pro."
+        }
+      ]
+    },
+    "contact": {
+      "title": "Still need help?",
+      "text": "Send us an email and we'll get back to you as soon as possible.",
+      "email": "support@talkila.com"
+    }
+  },
+  "imprint": {
+    "title": "Imprint",
+    "content": "Information according to § 5 TMG\n\nJurica Romic\nWiesenweg 3\n50259 Pulheim\nGermany\n\nContact:\nEmail: support@talkila.com\n\nResponsible for content according to § 55 Abs. 2 RStV:\nJurica Romic\nWiesenweg 3\n50259 Pulheim\nGermany"
+  },
+  "footer": {
+    "privacy": "Privacy",
+    "support": "Support",
+    "imprint": "Imprint",
+    "copyright": "© {year} Talkila. All rights reserved."
+  },
+  "notFound": {
+    "title": "Page not found",
+    "description": "The page you're looking for doesn't exist.",
+    "cta": "Back to home"
+  }
+}
